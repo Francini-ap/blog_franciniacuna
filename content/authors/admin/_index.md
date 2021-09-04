@@ -31,7 +31,7 @@ social:
   link: https://github.com/Francini-ap
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/Francini Acuña
+  link: https://www.linkedin.com/in/francini-acu%C3%B1a-0460bb47/
 superuser: true
 title: Francini Acuña Piedra
 ---
