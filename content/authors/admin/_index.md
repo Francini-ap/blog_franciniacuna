@@ -26,15 +26,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Francini-ap
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/Francini Acuña
 superuser: true
 title: Francini Acuña Piedra
 ---
