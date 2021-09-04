@@ -3,21 +3,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Estudiante de M.Sc Sistemas de Información Geográfica y Teledetección 
+    institution: Universidad Nacional de Costa Rica y Universidad Costa Rica
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Lic Ciencias Geográficas con énfasis en Ordenamiento del Territorio
+    institution: Universidad Nacional de Costa Rica.
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc Ciencias Geográficas con énfasis en Ordenamiento del Territorio
+    institution: Universidad Nacional de Costa Rica.
     year: 2008
 email: "blo"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sistemas de Información Geográfica y Teledetección
+- Gestión ambiental
+- Ordenamiento territorial
 organizations:
 - name: Programa de las Naciones Unidas para el Desarrollo (PNUD)
   url: https://www.cr.undp.org/
