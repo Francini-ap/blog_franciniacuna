@@ -45,9 +45,7 @@ superuser: true
 title: Francini Acuña Piedra
 ---
 
-Francini Acuña Piedra es geógrafa especialista en Sistemas de Información Geografica (SIG) y Teledetección 
-is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Francini Acuña Piedra, licenciada en Ciencias Geográficas con énfasis en Ordenamiento del Territorio y con experiencia en  Sistemas de Información Geografica (SIG) y Teledetección. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
