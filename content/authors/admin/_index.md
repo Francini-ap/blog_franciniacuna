@@ -1,7 +1,7 @@
 ---
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
-education:
+educación:
   courses:
   - course: Estudiante de M.Sc Sistemas de Información Geográfica y Teledetección 
     institution: Universidad Nacional de Costa Rica y Universidad Costa Rica
@@ -14,7 +14,7 @@ education:
     year: 2008
 email: "blo"
 highlight_name: false
-interests:
+intereses:
 - Sistemas de Información Geográfica y Teledetección
 - Gestión ambiental
 - Ordenamiento territorial
