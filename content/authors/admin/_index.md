@@ -48,4 +48,4 @@ title: Francini Acuña Piedra
 Francini Acuña Piedra, licenciada en Ciencias Geográficas con énfasis en Ordenamiento del Territorio y con experiencia en  Sistemas de Información Geografica (SIG) y Teledetección. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "blog_franciniacuna/cv.pdf" "newtab" >}}resumen{{< /staticref >}}.
