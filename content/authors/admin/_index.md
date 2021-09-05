@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: Programa de las Naciones Unidas para el Desarrollo (PNUD)
   url: https://www.cr.undp.org/
-role: Geógrafa 
+role: Geografa 
 social:
 - icon: envelope
   icon_pack: fas
