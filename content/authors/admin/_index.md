@@ -33,7 +33,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/francini-acu%C3%B1a-0460bb47/
 superuser: true
-title: Francini Acuña Piedra
+title: Francini Acuña-Piedra
 ---
 
 Francini Acuña Piedra, licenciada en Ciencias Geográficas con énfasis en Ordenamiento del Territorio y con experiencia en  Sistemas de Información Geografica (SIG) y Teledetección. 
