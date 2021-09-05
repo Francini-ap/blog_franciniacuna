@@ -9,7 +9,7 @@ math: true
 title: Información cartográfica: Corredor Biológico Interurbano María Aguilar (CBIMA) 
 ---
 
-Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
+Información cartográfica sobre el territorio del Corredor Biológico Interurbano María Aguilar (CBIMA) 
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 
